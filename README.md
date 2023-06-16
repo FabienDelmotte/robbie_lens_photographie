@@ -54,3 +54,25 @@ Ici, vous allez :
 - mettre le logo et les liens de navigation en haut des pages "Accueil" et "À propos" dans une balise `div` ;
 - mettre les différents logos en bas des deux pages dans une autre `div` ;
 - sur la page d'accueil, dans le paragraphe d'introduction, vous allez appliquer le style suivant : `color: #A5B4FC;` au mot "professionnalisme" et au mot "passion". Pour l'instant, vous utiliserez un `<span>`, mais nous le modifierons dans le prochain chapitre pour utiliser `<em>`.
+
+### Changez l'apparence du texte
+
+Vous allez :
+
+- importer les deux polices principales du projet avec Google Font : Montserrat et Manrope ;
+- assigner les propriétés de polices suivantes :
+  - les titres H1 :
+    - `3.5em` ;
+    - en couleur `#A5B4FC` ;
+    - police Montserrat ;
+  - les paragraphes :
+    - `1.1em` ;
+    - police Manrope ;
+  - les listes :
+    - `1em` ;
+    - police Manrope ;
+  - les liens :
+    - enlever le soulignement ;
+    - `1em` ;
+    - police Manrope ;
+- remplacer les `<span class="important"></span>` par des éléments `em` tout en gardant le même style.
