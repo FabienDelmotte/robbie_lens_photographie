@@ -42,3 +42,15 @@ Vous allez maintenant pouvoir enrichir le portfolio de Robbie Lens. Pour cela, v
 - remplacer les liens Twitter et Instagram en bas des pages "À propos" et "Accueil" par les icônes correspondantes ;
 - insérer l'image de Robbie Lens sur la page d'accueil (le fichier s'appelle `robbie-lens.png`) ;
 - afficher tout en haut et tout en bas de la page le logo qui renvoie sur la page d'accueil grâce à un lien.
+
+## Mettez en forme vos pages web avec CSS3
+
+### Intégrez le CSS dans la page HTML
+
+Ici, vous allez :
+
+- créer un fichier CSS commun `style.css` ;
+- appliquer la couleur `black` à l'ensemble des liens ;
+- mettre le logo et les liens de navigation en haut des pages "Accueil" et "À propos" dans une balise `div` ;
+- mettre les différents logos en bas des deux pages dans une autre `div` ;
+- sur la page d'accueil, dans le paragraphe d'introduction, vous allez appliquer le style suivant : `color: #A5B4FC;` au mot "professionnalisme" et au mot "passion". Pour l'instant, vous utiliserez un `<span>`, mais nous le modifierons dans le prochain chapitre pour utiliser `<em>`.
