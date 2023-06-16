@@ -1,4 +1,5 @@
 body {
+  background-color: #1f2039;
   font-family: "Manrope", sans-serif;
   font-size: 1em;
 }
@@ -9,16 +10,32 @@ h1 {
   font-size: 3.5em;
 }
 
+h2,
+li {
+  color: #f9f8ff;
+}
+
 p {
+  color: #f9f8ff;
   font-size: 1.1em;
 }
 
 a {
-  color: black;
+  color: #242424;
   text-decoration: none;
 }
 
 em {
   color: #a5b4fc;
   font-style: normal;
+}
+
+.entete,
+.pied-de-page {
+  background-color: white;
+}
+
+.cta {
+  background-color: linear-gradient(#8e86b5, #acaeed);
+  color: white;
 }

@@ -76,3 +76,18 @@ Vous allez :
     - `1em` ;
     - police Manrope ;
 - remplacer les `<span class="important"></span>` par des éléments `em` tout en gardant le même style.
+
+### Ajoutez de la couleur et un fond
+
+Vous devrez :
+
+- changer les couleurs de fond pour que :
+  - la `div`dans laquelle on a les liens en haut des pages, et le pied de page, aient un fond blanc ;
+  - le cœur de la page ait un fond correspondant à `#1F2039` ;
+- et les couleurs de texte pour que :
+  - les liens en tête et pied de page soient de couleur `#242424` ;
+  - les paragraphes, les listes et les titres H2 soient de la couleur `#F9F8FF` (sur fond bleu foncé).
+
+Vous trouverez également des liens hypertextes qui ont été ajoutés : "Un projet ? Écrivez-moi" et "Voir mon portfolio". Vous devrez leur ajouter un dégradé qui passe de la couleur `#8E86B5` à la couleur `#ACAEED` et les mettre dans la police Montserrat, en blanc.
+
+C'est normal si votre couleur de fond a une petite marge, nous corrigerons cela plus tard.
