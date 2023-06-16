@@ -34,3 +34,11 @@ Pour cet exercice, votre mission, si vous l'acceptez, est de :
 - ajouter les liens vers les réseaux sociaux (qui s'ouvrent dans un nouvel onglet) sur la page d'accueil et la page "À propos" :
   - pour Twitter, vous redirigerez vers <https://twitter.com/>,
   - pour Instagram, le lien pointe vers <https://www.instagram.com/>.
+
+### Insérez des images
+
+Vous allez maintenant pouvoir enrichir le portfolio de Robbie Lens. Pour cela, vous devrez :
+
+- remplacer les liens Twitter et Instagram en bas des pages "À propos" et "Accueil" par les icônes correspondantes ;
+- insérer l'image de Robbie Lens sur la page d'accueil (le fichier s'appelle `robbie-lens.png`) ;
+- afficher tout en haut et tout en bas de la page le logo qui renvoie sur la page d'accueil grâce à un lien.
