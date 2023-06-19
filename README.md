@@ -106,3 +106,14 @@ Pour cette étape, vous devrez :
 - souligner les liens au survol ;
 - permettre aux liens ayant la classe "cta" d'avoir un dégradé de la couleur `#696484` à la couleur `#8788BA` au survol (attention, ceux-ci ne sont pas soulignés au survol) ;
 - dans les icônes de l'en-tête et du pied-de-page qui permettent de faire des liens, réduire l'opacité à 0.5 au survol.
+
+## Agencez le contenu de vos pages
+
+### Structurez votre page
+Vous allez :
+
+- intégrer un `<header>` dans les pages d'accueil et Á propos ;
+- intégrer un `<footer>` dans ces même pages ;
+- ajouter `<main>` là où c'est nécessaire ;
+- basculer vos liens hypertextes de navigation dans une balise `<nav>` ;
+- adapter les déclarations CSS en fonction des modifications faites.
