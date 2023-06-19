@@ -98,3 +98,11 @@ Vous allez :
 
 - ajouter des arrondis sur les liens "Un projet ? Écrivez-moi" et "Voir mon portfolio", d'une valeur de `50px` (le rendu n'est pas très beau, mais ne vous inquiétez pas, nous allons l'améliorer au fil des chapitres) ;
 - créer une `div`, sur la page À propos, qui englobe le paragraphe et la liste de compétences de Robbie Lens ; lui ajouter une bordure à droite et en bas, de `1px` d'épaisseur et de la couleur `#8e86b5`.
+
+### Créez des apparences dynamiques
+
+Pour cette étape, vous devrez :
+
+- souligner les liens au survol ;
+- permettre aux liens ayant la classe "cta" d'avoir un dégradé de la couleur `#696484` à la couleur `#8788BA` au survol (attention, ceux-ci ne sont pas soulignés au survol) ;
+- dans les icônes de l'en-tête et du pied-de-page qui permettent de faire des liens, réduire l'opacité à 0.5 au survol.

@@ -25,6 +25,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 em {
   color: #a5b4fc;
   font-style: normal;
@@ -33,6 +37,10 @@ em {
 .entete,
 .pied-de-page {
   background-color: white;
+}
+
+.lien-icone:hover {
+  opacity: 0.5;
 }
 
 .carre-contenu {
@@ -44,4 +52,9 @@ em {
   background: linear-gradient(#8e86b5, #acaeed);
   border-radius: 50px;
   color: white;
+}
+
+.cta:hover {
+  background: linear-gradient(#696484, #8788ba);
+  text-decoration: none;
 }
