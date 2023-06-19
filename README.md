@@ -91,3 +91,10 @@ Vous devrez :
 Vous trouverez également des liens hypertextes qui ont été ajoutés : "Un projet ? Écrivez-moi" et "Voir mon portfolio". Vous devrez leur ajouter un dégradé qui passe de la couleur `#8E86B5` à la couleur `#ACAEED` et les mettre dans la police Montserrat, en blanc.
 
 C'est normal si votre couleur de fond a une petite marge, nous corrigerons cela plus tard.
+
+### Créez des bordures et des ombres
+
+Vous allez :
+
+- ajouter des arrondis sur les liens "Un projet ? Écrivez-moi" et "Voir mon portfolio", d'une valeur de `50px` (le rendu n'est pas très beau, mais ne vous inquiétez pas, nous allons l'améliorer au fil des chapitres) ;
+- créer une `div`, sur la page À propos, qui englobe le paragraphe et la liste de compétences de Robbie Lens ; lui ajouter une bordure à droite et en bas, de `1px` d'épaisseur et de la couleur `#8e86b5`.

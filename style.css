@@ -35,7 +35,13 @@ em {
   background-color: white;
 }
 
+.carre-contenu {
+  border-bottom: solid 1px #8e86b5;
+  border-right: solid 1px #8e86b5;
+}
+
 .cta {
-  background-color: linear-gradient(#8e86b5, #acaeed);
+  background: linear-gradient(#8e86b5, #acaeed);
+  border-radius: 50px;
   color: white;
 }
