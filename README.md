@@ -157,3 +157,11 @@ Vous allez :
 - créer sur les images un effet au survol de la souris en affichant un élément (grâce à `display` ) qui :
   - aura un fond noir d’une opacité de `70%` ;
   - s’affichera par-dessus l’image, et y mentionnera le texte suivant : “Voir la photo”.
+
+## Utilisez des fonctionnalités avancées de HTML et CSS
+
+### Ajoutez des tableaux
+
+Vous allez maintenant pouvoir construire le tableau des tarifs de Robbie Lens !
+
+Vous ajouterez les tarifs à la suite de la page "À propos", après le lien Call to action (appel à l’action).
