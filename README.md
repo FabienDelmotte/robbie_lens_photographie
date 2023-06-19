@@ -109,7 +109,8 @@ Pour cette étape, vous devrez :
 
 ## Agencez le contenu de vos pages
 
-### Structurez votre page
+### Structurez votre page
+
 Vous allez :
 
 - intégrer un `<header>` dans les pages d'accueil et Á propos ;
@@ -117,3 +118,15 @@ Vous allez :
 - ajouter `<main>` là où c'est nécessaire ;
 - basculer vos liens hypertextes de navigation dans une balise `<nav>` ;
 - adapter les déclarations CSS en fonction des modifications faites.
+
+### Découvrez le modèle des boîtes
+
+Vous allez :
+
+- ajouter un `padding` au `header` et au `footer` de `20px` en haut et en bas, et de `50px` à gauche et à droite ;
+- ajouter une section autour du contenu de la page d'accueil ;
+- ajouter une section autour du contenu de la page `A-propos` ;
+- donner à vos sections (pour les futures sections à venir) un `padding` de `80px` ;
+- créer un `padding` de `50px` pour `carre-contenu` ;
+- centrer le contenu de la page `A-propos` ;
+- aérer le contenu de la page `A-propos` : mettre de la marge au-dessus du sous-titre "Services" et de la liste des compétences.
