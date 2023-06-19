@@ -165,3 +165,17 @@ Vous allez :
 Vous allez maintenant pouvoir construire le tableau des tarifs de Robbie Lens !
 
 Vous ajouterez les tarifs à la suite de la page "À propos", après le lien Call to action (appel à l’action).
+
+### Créez des formulaires
+
+### Finalisez un formulaire et ajoutez un bouton d'envoi
+
+À vous de jouer pour :
+
+- ajouter un champ nom avec le label associé ;
+- ajouter un champ email avec le label associé ;
+- ajouter un textarea ayant pour label message ;
+- créer un bouton de validation "Envoyer".
+- changer le lien du bouton “Un projet?Écrivez-moi” pour le faire pointer vers le formulaire.
+
+Le formulaire aura une méthode `get` et restera vide pour l'attribut `action`.
