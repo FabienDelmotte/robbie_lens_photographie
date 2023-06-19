@@ -130,3 +130,11 @@ Vous allez :
 - créer un `padding` de `50px` pour `carre-contenu` ;
 - centrer le contenu de la page `A-propos` ;
 - aérer le contenu de la page `A-propos` : mettre de la marge au-dessus du sous-titre "Services" et de la liste des compétences.
+
+### Faites votre mise en page avec Flexbox
+
+Vous allez :
+
+- utiliser `flex` pour avoir le logo en haut à gauche de la page, et les liens de navigation à droite dans l’en-tête ;
+- réagencer les éléments pour avoir le titre de la page d'accueil, le paragraphe, et le lien ayant la classe "CTA" à gauche, et la photo à droite ;
+- importer les images dans la page d'accueil, et créer une grille d'images avec deux rangées de 3 images chacune.
