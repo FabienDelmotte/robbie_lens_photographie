@@ -147,3 +147,13 @@ Vous devrez coder deux grids :
 - une deuxième grid de 3 colonnes et 2 rangées, avec les images dont le nom commence par "portrait".
 
 Les colonnes devront s'adapter à la largeur de l'écran, et les rangées feront `300px` de haut, avec un écart de `15px`.
+
+### Abordez d'autres techniques de mise en page
+
+Vous allez :
+
+- transformer les liens qui ont la classe `.cta` en éléments `inline-block` avec `display` sur les pages "Accueil" et "À propos", et ajouter leur lien vers la page "Portfolio" ; (cta veut dire call to action en anglais, autrement dit, en français : "bouton d'appel à l'action") ;
+- ajouter des `margin` et `padding` là où il en manque sur les pages "Accueil" et "À propos" (pour rappel, voici la maquette d’inspiration pour le site) ;
+- créer sur les images un effet au survol de la souris en affichant un élément (grâce à `display` ) qui :
+  - aura un fond noir d’une opacité de `70%` ;
+  - s’affichera par-dessus l’image, et y mentionnera le texte suivant : “Voir la photo”.
