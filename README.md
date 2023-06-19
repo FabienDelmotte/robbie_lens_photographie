@@ -138,3 +138,12 @@ Vous allez :
 - utiliser `flex` pour avoir le logo en haut à gauche de la page, et les liens de navigation à droite dans l’en-tête ;
 - réagencer les éléments pour avoir le titre de la page d'accueil, le paragraphe, et le lien ayant la classe "CTA" à gauche, et la photo à droite ;
 - importer les images dans la page d'accueil, et créer une grille d'images avec deux rangées de 3 images chacune.
+
+### Découvrez les bases de CSS Grids
+
+Vous devrez coder deux grids :
+
+- une première grid avec les images dont le nom commence par "paysage". Elle comprend 3 colonnes et 3 rangées ;
+- une deuxième grid de 3 colonnes et 2 rangées, avec les images dont le nom commence par "portrait".
+
+Les colonnes devront s'adapter à la largeur de l'écran, et les rangées feront `300px` de haut, avec un écart de `15px`.
