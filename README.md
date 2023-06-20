@@ -179,3 +179,12 @@ Vous ajouterez les tarifs à la suite de la page "À propos", après le lien Cal
 - changer le lien du bouton “Un projet?Écrivez-moi” pour le faire pointer vers le formulaire.
 
 Le formulaire aura une méthode `get` et restera vide pour l'attribut `action`.
+
+### Utilisez le responsive design avec les Media Queries
+
+- Réduisez la taille des titres à `2em`.
+- Remplacez les `width` pour `.accueil-introduction` et `form` par la propriété `max-width` sur la page d'accueil, avec une valeur de `1000px`.
+- Cachez la section "Tarifs" sur la page "À propos".
+- Tous les éléments qui sont disposés à l'horizontale basculent à la verticale à partir de la taille d'écran `996px` (introduction, grilles photos et formulaire).
+- Le `padding` sur le côté des pages passe de `80px` à `20px`.
+- Les liens de navigation du header passent à la verticale et sont centrés.
